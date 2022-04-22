@@ -26,13 +26,13 @@ body{
     padding: 20px
 }
 .profile{
-    width: 200px;
-    height: 220px;
+    width: 230px;
+    height: 230px;
  
-    border-radius: 50px;
-    margin: 20px;
-    margin-left: 22.5px;
-    margin-bottom: 5px;
+    border-radius: 80px;
+    margin-top : 25px;
+    margin-left: 35px;
+    margin-bottom: 2px;
 }
 .content{
     padding: 20px;
